@@ -61,9 +61,9 @@ if __name__ == '__main__':
 ![robo](./img/robomaster.png)
 
 ## Initial position:
-![robo](./11.jpg)
+![robo](./initial.jpg)
 ## final position:
-![robo](./12.jpg)
+![robo](./final.jpg)
 
 ## MobileRobot Movement Video:
 Embed video here: 🎬🎬🎬https://youtu.be/dH8hXgzS__Y🎬🎬🎬 
